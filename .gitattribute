@@ -1,0 +1,4 @@
+# Enforce Unix newlines
+* text=auto eol=lf
+
+*.md linguist-detectable=true linguist-language=markdown
